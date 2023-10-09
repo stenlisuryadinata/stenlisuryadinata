@@ -52,7 +52,7 @@ BLOG-POST-LIST:START
 
 ### Top Languages
 
-<p align="left">
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=stenlisuryadinata&show_icons=true&locale=en&layout=compact&theme=radical" alt="stenlisuryadinata" />
 </p>
 
