@@ -30,9 +30,9 @@
 
 - 🌟 Known for my commitment to delivering high-quality code and my ability to make every project a success.
 
-<!-- BLOG-POST-LIST:START -->
-<img src="https://medium.com/@stenlisuryadinata/how-to-build-a-react-app-from-scratch-e454304d542e" />
-<img src="https://medium.com/@stenlisuryadinata/running-a-payload-on-the-remote-system-568081839138" />
+BLOG-POST-LIST:START 
+- [How to Build a React App from Scratch](https://medium.com/@stenlisuryadinata/how-to-build-a-react-app-from-scratch-e454304d542e)
+- [Running a Payload on the Remote System](https://medium.com/@stenlisuryadinata/running-a-payload-on-the-remote-system-568081839138)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
