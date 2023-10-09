@@ -29,11 +29,21 @@
 - 📧 Reach out at stenlisuryadinata@gmail.com for inquiries, opportunities, or just a tech chat.
 
 - 🌟 Known for my commitment to delivering high-quality code and my ability to make every project a success.
+- 
 
 BLOG-POST-LIST:START 
+
 - [How to Build a React App from Scratch](https://medium.com/@stenlisuryadinata/how-to-build-a-react-app-from-scratch-e454304d542e)
 - [Running a Payload on the Remote System](https://medium.com/@stenlisuryadinata/running-a-payload-on-the-remote-system-568081839138)
+
 <!-- BLOG-POST-LIST:END -->
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/stenlisurya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@stenlisurya" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/stenli-suryadinata-31972a43/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="stenli-suryadinata" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/elim_berkat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="stenli-suryadinata" height="30" width="40" /></a>
+</p>
 
 <!--
 **stenlisuryadinata/stenlisuryadinata** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
