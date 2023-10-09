@@ -1,7 +1,3 @@
-
-
-<!--h1 align="center" <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Rubik+Distressed&size=31&pause=1000&color=0096FF&center=true&vCenter=true&width=435&lines=.....💫+🪐+Hi......+I+am+Marvellous💫+🪐+....." alt="Typing SVG" /></a> <h1/-->
-
 <h1 align="center" <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Rubik+Distressed&size=31&pause=1000&color=0096FF&center=true&vCenter=true&width=435&lines=.....💫+🪐+👋 Hello,..+I+am+Stenli Suryadinata 👋 💫+🪐+ a Full Stack Web Developer 👋 " alt="Typing SVG" /></a> <h1/>
 <h3 align="center">A Passionate Full Stack Web Developer</h3>
 
