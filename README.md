@@ -1,4 +1,8 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=%F0%9F%91%8B+Hello%2C+I'm+a+Full+Stack+Web+Developer+%F0%9F%91%8B)](https://git.io/typing-svg)
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=%F0%9F%91%8B+**Hello, I'm Stenli Suryadinata**+%F0%9F%91%8B" alt="Typing SVG" />
+  </a>
+</p>
 
 <h3 align="center">A Passionate Full Stack Web Developer</h3>
 
