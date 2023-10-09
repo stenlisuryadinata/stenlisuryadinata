@@ -14,6 +14,22 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=stenlisuryadinata" alt="stenlisuryadinata" /></a> </p>
 <p align="left"> <a href="https://twitter.com/stenlisurya" target="blank"><img src="https://img.shields.io/twitter/follow/stenlisurya?logo=twitter&style=for-the-badge" alt="stenlisurya" /></a> </p>
 
+🌐 Experienced Full Stack Web Developer
+
+- 💻 Building the digital world from both ends – frontend and backend – with a focus on creating seamless, user-centric web applications.
+
+- 🚀 Currently engaged in a Ruby on Rails Project, crafting efficient and scalable solutions.
+
+- 🛠️ Proficient in Full Stack Development, mastering JavaScript, HTML/CSS, and harnessing the power of React and other modern frameworks.
+
+- 👥 Collaborative spirit, eager to join forces on innovative Software Development Projects.
+
+- 💬 Expertise in HTML/CSS, Linux, and JavaScript, ready to tackle challenges and provide insights.
+
+- 📧 Reach out at stenlisuryadinata@gmail.com for inquiries, opportunities, or just a tech chat.
+
+- 🌟 Known for my commitment to delivering high-quality code and my ability to make every project a success.
+
 <!--
 **stenlisuryadinata/stenlisuryadinata** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
