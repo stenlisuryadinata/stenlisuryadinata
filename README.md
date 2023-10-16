@@ -75,6 +75,8 @@ BLOG-POST-LIST:START
 
 <figure><embed src="https://wakatime.com/share/@stenlisuryadinata/d6d9a154-0049-44ec-a40a-b3049277f04a.svg"></embed></figure>
 
+[Waka Time Profile](https://wakatime.com/@stenlisuryadinata)
+
 <!--
 **stenlisuryadinata/stenlisuryadinata** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
