@@ -11,7 +11,7 @@
 <p align="center"><img src="https://media.giphy.com/media/4rZA5D22301iMgrUNd/giphy.gif"></p>
 
 
-<a href="https://wakatime.com/badge/user/018b124a-ced9-441a-809d-e2bbb2c98617/project/018b1250-6b35-4609-a573-6089c883c841"><img src="https://wakatime.com/badge/user/018b124a-ced9-441a-809d-e2bbb2c98617/project/018b1250-6b35-4609-a573-6089c883c841.svg" alt="wakatime"></a>
+<a href="https://wakatime.com/@018b124a-ced9-441a-809d-e2bbb2c98617"><img src="https://wakatime.com/badge/user/018b124a-ced9-441a-809d-e2bbb2c98617.svg" alt="Total time coded since Oct 9 2023" /></a>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=stenlisuryadinata&label=Profile%20views&color=0e75b6&style=flat" alt="stenlisuryadinata" /> </p>
