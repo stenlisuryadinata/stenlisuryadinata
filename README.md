@@ -73,7 +73,7 @@ BLOG-POST-LIST:START
 </p>
 
 
-<figure><embed src="https://wakatime.com/share/@stenlisuryadinata/d6d9a154-0049-44ec-a40a-b3049277f04a.svg"></embed></figure>
+![Image](https://wakatime.com/share/@stenlisuryadinata/e19f0fb4-55bd-4433-8688-84fa3708d74d.svg)
 
 [Waka Time Profile](https://wakatime.com/@stenlisuryadinata)
 
