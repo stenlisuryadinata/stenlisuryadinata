@@ -73,6 +73,9 @@ BLOG-POST-LIST:START
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=stenlisuryadinata&theme=radical" alt="stenlisuryadinata" />
 </p>
 
+
+<figure><embed src="https://wakatime.com/share/@stenlisuryadinata/d6d9a154-0049-44ec-a40a-b3049277f04a.svg"></embed></figure>
+
 <!--
 **stenlisuryadinata/stenlisuryadinata** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
