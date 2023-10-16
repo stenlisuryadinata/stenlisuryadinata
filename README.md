@@ -12,6 +12,7 @@
 
 [![wakatime](https://wakatime.com/badge/user/018b124a-ced9-441a-809d-e2bbb2c98617.svg)](https://wakatime.com/@018b124a-ced9-441a-809d-e2bbb2c98617)
 <a href="https://wakatime.com/@018b124a-ced9-441a-809d-e2bbb2c98617"><img src="https://wakatime.com/badge/user/018b124a-ced9-441a-809d-e2bbb2c98617.svg" alt="Total time coded since Oct 9 2023" /></a>
+[![wakatime](https://wakatime.com/badge/user/018b124a-ced9-441a-809d-e2bbb2c98617/project/018b2470-8bd5-4291-a241-0945d2ae01b0.svg)](https://wakatime.com/badge/user/018b124a-ced9-441a-809d-e2bbb2c98617/project/018b2470-8bd5-4291-a241-0945d2ae01b0)
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=stenlisuryadinata&label=Profile%20views&color=0e75b6&style=flat" alt="stenlisuryadinata" /> </p>
